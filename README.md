@@ -1,4 +1,4 @@
-# Simple Python Calculator
+## Simple Python Calculator
 This is a basic command-line calculator made with Python.  
 It supports addition, subtraction, multiplication, and division.
 
